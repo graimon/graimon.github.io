@@ -1,3 +1,5 @@
+gems: 
+  - jekyll-multiple-languages-plugin
 
 title: Mi CV
 url: 'https://graimon.github.io/'
@@ -25,9 +27,7 @@ linkedin: raimon-malatesta-orsi-43827072
 github: graimon
 twitter: '@graimon'
 
+#Update all the sections by editing the files inside _includes folder.
+
 languages: ["es", "en"]
 exclude_from_localizations: ["javascript", "images", "css"]
-
-#Update all the sections by editing the files inside _includes folder.
-gems: 
-  - jekyll-multiple-languages-plugin
